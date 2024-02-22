@@ -23,6 +23,7 @@
             "assets": [
               "src/favicon.ico",
               "src/assets",
+              "src/assets/enable-threads.js",
               "src/web-gphoto2/libapi.wasm",
               "src/web-gphoto2/libapi.mjs",
               "src/web-gphoto2/libapi.mjs.d.ts",
