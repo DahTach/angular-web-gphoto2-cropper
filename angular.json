@@ -24,12 +24,12 @@
               "src/favicon.ico",
               "src/assets",
               "src/enable-threads.js",
-              "src/web-gphoto2/libapi.wasm",
-              "src/web-gphoto2/libapi.mjs",
-              "src/web-gphoto2/libapi.mjs.d.ts",
-              "src/web-gphoto2/libapi.worker.ts",
-              "src/web-gphoto2/camera.js",
-              "src/web-gphoto2/camera.d.ts",
+              "src/libapi.wasm",
+              "src/libapi.mjs",
+              "src/libapi.mjs.d.ts",
+              "src/libapi.worker.ts",
+              "src/camera.js",
+              "src/camera.d.ts",
               "src/serve.json"
             ],
             "styles": [

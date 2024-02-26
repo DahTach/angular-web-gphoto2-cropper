@@ -1,7 +1,7 @@
 /// <reference types="w3c-web-usb" />
 import { Component, ViewChild, ElementRef, Inject } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import { Camera } from '../web-gphoto2/camera';
+import { Camera } from '../camera';
 import { CommonModule } from '@angular/common';
 import { CropComponent } from './crop/crop.component';
 import { DomSanitizer } from '@angular/platform-browser';
